@@ -1,0 +1,20 @@
+{
+  "name": "nn",
+  "directories": {
+    "lib": "./lib"
+  },
+  "main": "./lib/index",
+  "version": "0.0.0",
+  "author": "aym",
+  "engines": [
+    "node"
+  ],
+  "description": "neural network lib",
+  "keywords": [
+    "neural network"
+  ],
+  "dependencies": {
+    "mathjs": ">=3.4.1"
+  },
+  "devDependencies": {}
+}
